@@ -4,13 +4,9 @@ Patika web3 practicum JavaScript case çözümü.
 
 Akbank Web3 Practicum
 
-Course Name
-Akbank Web3 Practicum
-Type
-First Case
-Language
-JavaScript
-Case Detail
+Course Name-Akbank Web3 Practicum
+Language-JavaScript
+Case Detail-
 Bir sayının Tek mi Çift mi olduğunu belirleyen bir işlev oluşturun. Bir sayı, tüm basamaklarının toplamı tek ise tek, tüm basamaklarının toplamı çift ise bir sayıdır. Bir sayı tek ise, "Odd" döndürün. Aksi takdirde, "Even" değerini döndürün. Örnek olarak:
 
 oddishOrEvenish(43) ➞ "Odd"
